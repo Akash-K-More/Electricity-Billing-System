@@ -7,6 +7,10 @@ It lets User perform multiple operations like:-
 
 2- User can Add customers and Calculate their Electricity Bill.
 
+3- User can Pay Electricity Bills.
+
+4- User can Generate Bill.
+
 
 ## About Project:
 This Java application was created using Intelli J .
@@ -22,6 +26,12 @@ It contains 9 different classes which works together to create a better user exp
 ->Add Customer class
 
 ->Last Bill class
+
+->Pay Bill class
+
+->Generate Bill class
+
+->Show Details class
 
 ->Connection Setup class(JDBC - MySQL)
 
@@ -57,6 +67,14 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 ## Calculate Bill
 
 <img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/CalculateBill.JPG" width="500" height="500">
+
+## Details
+
+<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Details.JPG" width="800" height="300">
+
+## Generate Bill
+
+<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
 
 
 
